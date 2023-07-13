@@ -1,0 +1,59 @@
+Class,Name,Age,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,Score,Level
+Diligent,nauffal nur rizky,17,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,15,8
+Diligent,muhammad amarif puja adiria,18,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,14,8
+Tolerance,adela dzakira aftani,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,3
+Honesty,aretha deandra yusuf,9,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,2
+Honesty,najla sabria rachmat,11,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,3,2
+Tolerance,daffa al wafi,12,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,5,3
+Creativity,naufa zahra ramadhania,11,1,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,6,4
+Tolerance,muhammad abdul mutaqin,11,1,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,6,3
+Creativity,arkam rodhi,12,1,1,1,1,1,0,0,1,1,1,1,0,1,0,1,0,11,4
+Tolerance,dion gabriel silaban,10,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,3
+Diligent,deni marizki,21,1,1,1,0,1,0,1,1,1,0,1,0,0,0,1,1,10,8
+Tolerance,muhamad rizky pratama,11,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0,5,3
+Tolerance,wizri maulana,11,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,5,3
+Honesty,syafina mutya,10,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,3,2
+Tolerance,alica febriyanti,12,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,3
+Creativity,muhammad azam,12,1,0,0,1,1,0,0,1,1,1,1,0,0,0,0,0,7,4
+Creativity,asyifa nursabila putri,11,1,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,6,4
+Tolerance,fadil yanuar syakieb,10,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,4,3
+Honesty,alifah irmadiana,9,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,3,2
+Tolerance,abay,11,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,4,3
+Tolerance,jeflin ramot saragi,10,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,3
+Honesty,ryyu emeraldy yusuf,12,0,1,1,1,1,0,0,0,1,1,0,0,1,0,0,0,7,2
+Empathy,erik afriansyah,18,1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,0,11,7
+Creativity,marsya,12,1,1,0,1,0,0,0,1,1,1,1,0,1,0,0,0,8,4
+Honesty,azkia eka mutiara,12,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,4,2
+Honesty,ridho al - fajri,10,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,2
+Creativity,zarifah ananda kirana mulyana,11,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,4,4
+Responsible,nadia rosalinda,12,1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,5,5
+Tolerance,zahira adinda karina mulyana,12,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,3,3
+Honesty,gilang,10,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,2
+Enthusiastic,parhan arya saputra,9,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,5,1
+Responsible,rizky fatur,13,0,1,0,0,1,0,0,1,1,1,0,0,1,1,0,0,7,5
+Honesty,muhammad daffa muntazhor,10,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,4,2
+Empathy,zahra nur salsabila,19,1,0,1,0,1,0,1,0,1,1,0,1,0,0,0,0,7,7
+Diligent,dhia suci ramadhani,18,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,0,12,8
+Responsible,rayhan sahril a,13,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,5,5
+Enthusiastic,muhammad rifansah,11,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+Enthusiastic,aulia izzatunnisa,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,1
+Enthusiastic,syabila zivana,9,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1
+Creativity,dava herdiansyah,11,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,3,4
+Responsible,fatimatun zahra,14,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,5
+Empathy,sinta wahyuni,23,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,0,12,7
+Creativity,nisrina azka maulida,12,1,1,1,0,1,0,0,1,1,1,1,1,0,0,1,0,10,4
+Integrity,ardina nova,14,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,13,6
+Honesty,almira erdiana,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+Enthusiastic,eva kusniawati,10,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,3,1
+Responsible,tasya,15,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,5
+Responsible,riswan,14,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,5
+Responsible,rayhan restu zaojan,14,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,0,6,5
+Integrity,shalfa salsabila,13,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,12,6
+Enthusiastic,faisai nofandra,10,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,1
+Integrity,rafli aditia pratama,12,0,1,1,1,1,0,0,1,1,1,0,0,0,1,0,0,8,6
+Enthusiastic,iqbal prathama santoso,12,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,1
+Responsible,yunita kesya,15,1,1,1,0,1,0,0,1,1,1,0,0,0,0,0,0,7,5
+Integrity,muhammad irsan nurzaini,14,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0,6,6
+Enthusiastic,ghina ussaadah,10,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1
+Responsible,alfadhlan,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,5
+Diligent,wulan,22,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,14,8

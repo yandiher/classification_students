@@ -1,0 +1,16 @@
+01 b,b. yes, I do
+02 h,h. tongue
+03 f,f. great
+04 g,g. no, we can't
+05 e,e. Mount
+06 d,d. has
+07 h,h. may I
+08 d,d. school
+09 a,a. blue
+10 c,c. yellow
+11 f,f. play game indoor
+12 g,g. Sunday
+13 i,i. 5-1-6-3-2-4
+14 g,g. stamps
+15 e,e. they
+16 e,e. i am gonna find my wallet soon.
